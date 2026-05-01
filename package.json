@@ -1,6 +1,6 @@
 {
   "name": "@telepat/ansie",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Terminal image rendering and ANSI utility toolkit with automatic capability detection.",
   "type": "module",
   "main": "dist/src/index.js",
