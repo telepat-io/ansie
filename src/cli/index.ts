@@ -94,9 +94,3 @@ export async function runCli(argv: string[]): Promise<number> {
     return 1;
   }
 }
-
-if (import.meta.url === `file://${process.argv[1]}`) {
-  runCli(process.argv.slice(2)).then((code) => {
-    process.exitCode = code;
-  });
-}
