@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/telepat-io/ansie/compare/ansie-v0.1.1...ansie-v0.1.2) (2026-05-12)
+
+
+### Bug Fixes
+
+* update Node.js version to 24 in release workflow ([bdb1f52](https://github.com/telepat-io/ansie/commit/bdb1f523071f19e511dcc7f9380f95eba86a89e9))
+
 ## [0.1.1](https://github.com/telepat-io/ansie/compare/ansie-v0.1.0...ansie-v0.1.1) (2026-05-01)
 
 
